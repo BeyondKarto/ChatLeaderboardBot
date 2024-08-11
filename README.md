@@ -1,4 +1,4 @@
-Telegram Bot for Points Calculation
+### Telegram Bot for Points Calculation
 
 This Telegram bot is designed to count the number of characters in user messages in chats and assign points based on the length of these messages. Only the bot owner has the rights to use special commands to manage the bot.
 
